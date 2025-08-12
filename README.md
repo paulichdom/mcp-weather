@@ -1,9 +1,9 @@
 
 # MCP Weather Server
 
-## Overview
-
 This project was built by following the official Anthropics MCP server quickstart guide. It is designed to work with Claude for Desktop and other MCP-compatible clients.
+
+## Overview
 
 It demonstrates how to build a simple MCP weather server and connect it to a host (Claude for Desktop). The setup starts basic and can be extended for more advanced use cases.
 
