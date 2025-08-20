@@ -89,7 +89,7 @@ async def get_forecast(latitude: float, longitude: float) -> str:
         Forecast: {period['detailedForecast']}
         """
 
-        forecast.append(forecast)
+        forecasts.append(forecast)
 
     return "\n---\n".join(forecasts)
 
